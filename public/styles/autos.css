@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: silver;
+    text-align: center;
+}
+body div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body div img{
+    width: 400px;
+    padding: 20px;
+}

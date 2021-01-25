@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: slategrey;
+}
+h1{
+    text-align: center;
+}
